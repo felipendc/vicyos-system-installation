@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=Install ArcoLinux
-Comment=Installer for ArcoLinux
+Name=Install VicyosLinux
+Comment=Installer for VicyosLinux
 Categories=Utility;
 Exec=pkexec /usr/bin/calamares
 Icon=arco-calamares
