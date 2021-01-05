@@ -3,5 +3,5 @@ Type=Application
 Name=Install VicyosLinux with debugging mode on
 Comment=Installer for VicyosLinux to debug
 Categories=Utility;
-Exec=pkexec calamares -d
+Exec=sudo pkexec /usr/bin/calamares &
 Icon=arco-calamares
